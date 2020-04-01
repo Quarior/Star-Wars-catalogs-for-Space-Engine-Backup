@@ -1,4 +1,5 @@
-# Star-Wars-catalogs-for-Space-Engine
+# Star-Wars-catalogs-for-Space-Engine-Backup
+Is a backup of the repertorie Star-Wars-catalogs-for-Space-Engine (https://github.com/Quarior/Star-Wars-catalogs-for-Space-Engine), please, not edit this.
 About :
 Catalogs of galaxies and systems of Star Wars for Space Engine.
 Credit :
